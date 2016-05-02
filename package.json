@@ -1,5 +1,6 @@
 {
   "name": "gulp4-starter",
+  "description": "Gulp 4 starter kit.",
   "version": "1.0.0",
   "author": "phweb",
   "license": "MIT",
