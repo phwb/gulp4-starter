@@ -21,6 +21,7 @@
   "trailing": true,
   "smarttabs": true,
   "white": true,
+  "jquery": true,
   "globals": {
     "document": true
   }

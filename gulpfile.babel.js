@@ -62,9 +62,9 @@ export function views() {
 }
 
 export function watch() {
-  gulp.watch('./src/views/*.pug', views);
+  gulp.watch('./src/views/**/*.pug', views);
   gulp.watch('./src/images/**/*', images);
-  gulp.watch('./src/styles/*.less', styles);
+  gulp.watch('./src/styles/**/*.less', styles);
 }
 
 export function serve() {
